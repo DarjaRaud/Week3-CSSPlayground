@@ -1,0 +1,49 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Aboreto&family=Bebas+Neue&display=swap');
+
+body {
+    background-color: rgb(244, 226, 239);
+}
+
+.heading {
+    text-align: center;
+}
+
+.playground-heading {
+    color: rgb(235, 26, 95);
+    font-family: 'Aboreto', cursive;
+    font-size: 5rem;
+}
+
+.main {
+    border: 3px solid gray;
+    width: 50%;
+    margin: 0 auto;
+}
+
+.main div {
+    height: 200px;
+    width: 200px;
+    border: 1px solid black;
+    border-radius: 50%;
+    margin: 2rem auto;
+}
+
+#red {
+    border-color: red;
+}
+
+#pink {
+    border-color: rgb(230, 79, 162);
+}
+
+#purple {
+    border-color: purple;
+}
+
+
+.footer {
+    text-align: center;
+    font-family: 'Bebas Neue', cursive;
+    font-size: 2rem;
+}
